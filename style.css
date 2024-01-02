@@ -47,7 +47,6 @@ html {
   color: #c8a97e;
 }
 
-/* ***************this below written code will work when our page content goes more than screen size or when it is scrolled */
 
 .ftco-navbar-light.scrolled .nav-item.active > a {
   color: #c8a97e !important;
@@ -95,7 +94,6 @@ html {
   font-size: 20px;
 }
 
-/* *********carousel****** */
 
 .owl-carousel {
   position: relative;
@@ -234,7 +232,6 @@ html {
   display: inline-block;
 }
 
-/* *************featured section *************** */
 
 .featured {
   padding-top: 30px;
@@ -397,7 +394,6 @@ html {
   font-size: 18px;
 }
 
-/* ********gallery section ********* */
 .gallery__pic img {
   max-width: 100%;
 }
@@ -498,7 +494,6 @@ html {
 }
 
 .menus:hover {
-  border: 1px solid #ff2377;
   background: linear-gradient(
     235deg,
     rgba(231, 111, 169, 0.741) 30%,
@@ -515,7 +510,6 @@ html {
   color: rgba(0, 0, 0, 0.8);
 }
 
-/* ********* Testimonials section ************ */
 .testimony-section {
   position: relative;
   z-index: 0;
@@ -702,7 +696,7 @@ html {
 }
 
 .ftco-social span {
-  color: #7e2147d8;
+  color: #c8a97e;
 }
 
 .makereservation {
@@ -814,7 +808,7 @@ html {
 }
 
 .single-cat-widget:hover .overlay-bg {
-  background: rgba(186, 146, 54, 0.85);
+  background: transparent;
   margin: 7%;
   transition: all 0.4s ease 0s;
 }
